@@ -1,4 +1,4 @@
-- EVE Online Intel Bot - Local Watch Script
+{- EVE Online Intel Bot - Local Watch Script
    This app watches local and plays an alarm sound when a pilot with bad standing appears.
    The detection code below works for English language in the game client.
    To use another language, adapt the `goodStandingPatterns` list below.
